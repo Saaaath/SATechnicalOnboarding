@@ -12,7 +12,7 @@ main {
 
 
 .box {
-    box-shadow: .1em .1em .2em #80D4FF;
+    box-shadow: .1em .1em .2em #19d926;
     border-radius: .4em;
     border-width: .01em;
     border-style: solid;
@@ -23,19 +23,19 @@ main {
 }
 
 h1 {
-    color: navy;
+    color: rgb(28, 222, 96);
     margin: 0em;
     display: block;
 }
 
 h2 {
-    color: navy;
+    color: rgb(28, 222, 96);
     font-size: 1.2em;
     margin: 0em;
 }
 
 h3 {
-    color: navy;
+    color: rgb(28, 222, 96);
     font-size: 1em;
     margin: 0em;
 }
